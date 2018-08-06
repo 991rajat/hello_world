@@ -1,5 +1,5 @@
 # hello_world
-### My first contribution to github.
+### My first contribution.
 Hi 
 I am Rajat and this feels awesome.
 # Intro.html
